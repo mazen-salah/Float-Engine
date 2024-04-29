@@ -1,6 +1,6 @@
 # FloatEngine MATE Competition
 
-## Overview 
+## Overview
 
 This repository contains the source code for the FloatEngine designed for participation in the MATE (Marine Advanced Technology Education) competition. The FloatEngine system is intended to control a motorized clock mechanism for underwater applications. It utilizes an Arduino microcontroller, a real-time clock (RTC) module, and an HC-12 wireless serial communication module.
 
